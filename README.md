@@ -37,25 +37,25 @@ A Python-based Tic Tac Toe game with AI capabilities. Play against a friend or c
 To get started and play the AI Tic Tac Toe game on your local machine, follow these steps:
 
 1. **Clone the Repository:**
-   Open your terminal and use the following command to clone this repository to your local machine:
+  Open your terminal and use the following command to clone this repository to your local machine:
    ```bash
    git clone https://github.com/ArmanGrewal03/ai-tictack.git
 2.**Navigate to the Game Directory:**
   Move into the game directory that you just cloned using the following command:
   ```plaintext
    cd ai-tictack
-```
+  ```
 3.**Install Dependencies:**
-  Before you run the game, make sure you have the necessary dependencies installed. If you haven't already, use      the following commands to install pygame and numpy:
+  Before you run the game, make sure you have the necessary dependencies installed. If you haven't already, use         the following commands to install pygame and numpy:
   ```plaintext
    pip install pygame
    pip install numpy
-```
+  ```
 4.**Run the Game:**
   After installing the dependencies, you're ready to run the game:
   ```plaintext
   python tictactoe.py
-```
+  ```
 
   
 
