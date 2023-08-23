@@ -1,6 +1,6 @@
 # Tic Tac Toe Game With AI
 
-This is a simple tic tac toe game that can be played with two players, or AI. The AI comes with two modes, 0 or 1. AI level 0 is random AI and level 1 is the unbeatable AI. The unbeatable AI will never loose only win or tie. This program implements the minimax algorithm with alph beta pruning to make the algorithm more efficient. 
+This is a tic tac toe game coded in python, and comes with the ability to play with AI. This game provides the user to allow two-player game, or with the AI. 
 
 <div align="center">
   <img src="./images/screenshot.png" alt="Project Screenshot" width="400">
@@ -8,43 +8,30 @@ This is a simple tic tac toe game that can be played with two players, or AI. Th
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Usage](#usage)
+- [Installation](#installation)
 
-## Installation
-
-Provide instructions on how to install and set up your project. Include any dependencies, requirements, or environment setup.
-
-## Usage
-
-Explain how to use your project. Provide code examples, usage scenarios, or any relevant information to help users understand its purpose.
-
-## Configuration
-
-If your project requires configuration, API keys, or settings adjustments, explain how users can set up these configurations.
 
 ## Features
 
-List the main features and functionalities of your project. Be concise and clear.
+* AI comes in two modes, level 0 and 1. With Level 0, AI makes random moves, whereas with Level 1, the AI is unbeatable (will either win or draw).
+* There is a line drawn indicating when three x's or o's line up
+* X's and O's are places easily by clicking on the square
+* Code implements minimax algorithm along with alpha beta pruning in order to improve efficiency.
 
-## Contributing
+## Usage
 
-Explain how others can contribute to your project. Provide guidelines for bug reports, feature requests, and pull requests. Include a code of conduct if applicable.
+When code is run, the game by default is set to AI level 1 (unbeatable). 
 
-## License
+To change the gamemode of the ai between level 1 to 0 simply click '0' on the keyboard at the start of the game. To change it back either restart the game or click '1' on the keyboard. 
 
-Specify the license under which your project is released. Include information about how others can use and distribute your code.
+To change the gamemode of the ai to two player instead of ai, click 'g' on the keyboard.
 
-## Acknowledgments
+To reset the game and clear all values, press 'r' on the keyboard. 
 
-Give credit to any external libraries, tools, or resources you used in your project. Acknowledge contributors or sources of inspiration.
+## Installation
 
-## Contact
+In order to run this program ensure
 
-Provide a way for users to contact you or reach out for support. This could be your GitHub profile, email address, or other contact information.
+
