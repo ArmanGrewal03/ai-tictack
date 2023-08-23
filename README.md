@@ -1,6 +1,6 @@
-# Project Title
+# Tic Tac Toe Game With AI
 
-Short project description goes here.
+This is a simple tic tac toe game that can be played with two players, or AI. The AI comes with two modes, 0 or 1. AI level 0 is random AI and level 1 is the unbeatable AI. The unbeatable AI will never loose only win or tie. This program implements the minimax algorithm with alph beta pruning to make the algorithm more efficient. 
 
 ## Table of Contents
 
