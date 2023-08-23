@@ -32,6 +32,9 @@ To reset the game and clear all values, press 'r' on the keyboard.
 
 ## Installation
 
-In order to run this program ensure
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/ArmanGrewal03/ai-tictack.git
+2.Navigate to the game directory  cd ai-tictack
 
 
