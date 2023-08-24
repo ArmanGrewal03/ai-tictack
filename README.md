@@ -25,12 +25,12 @@ A Python-based Tic Tac Toe game with AI capabilities. Play against a friend or c
 
 - Run the code to start the game (AI level is set to 1 by default).
 - To switch between AI levels:
-  - Press '0' on the keyboard for Level 0 AI.
-  - Press '1' on the keyboard for Level 1 AI (unbeatable).
+  - Press `0` on the keyboard for Level 0 AI.
+  - Press `1` on the keyboard for Level 1 AI (unbeatable).
 - To switch to two-player mode (no AI):
-  - Press 'g' on the keyboard.
+  - Press `g` on the keyboard.
 - To reset the game and clear all values:
-  - Press 'r' on the keyboard.
+  - Press `r` on the keyboard.
 
 ## Installation
 
