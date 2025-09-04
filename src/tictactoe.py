@@ -39,11 +39,11 @@ class Main:
                     #random ai
                     if event.key==pygame.K_0:
                         ai.level=0
-                        print("AI LEVEL:"+ ai.level)
+                        print("AI LEVEL:"+ str(ai.level))
 
                     if event.key==pygame.K_1:
                         ai.level=1
-                        print("AI LEVEL:"+ ai.level)
+                        print("AI LEVEL:"+ str(ai.level))
 
                     if event.key==pygame.K_r:
                          game.reset()
