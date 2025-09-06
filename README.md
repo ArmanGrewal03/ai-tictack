@@ -48,17 +48,25 @@ To get started and play the AI Tic Tac Toe game on your local machine, follow th
     ```
 3. **(Optional) Create a Virtual Environment**  
     It’s best practice to isolate dependencies:
+
+   On macOS/Linux
     ```
     python -m venv venv
-    source venv/bin/activate # On macOS/Linux
-    venv\Scripts\activate # On Windows
+    source venv/bin/activate 
     ```
-4. **Install Dependencies**  
+
+    On Windows
+     ```
+     python -m venv venv
+     venv\Scripts\activate # On Windows
+     ```
+   
+5. **Install Dependencies**  
     Install everything from `requirements.txt`:
     ```
     pip install -r requirements.txt
     ```
-5. **Run the Game**  
+6. **Run the Game**  
     Start the game with:
     ```
     cd src
