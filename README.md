@@ -44,7 +44,7 @@ To get started and play the AI Tic Tac Toe game on your local machine, follow th
 2. **Navigate to the Game Directory**  
     Move into the project folder:
     ```
-    cd ai-tictack/src
+    cd ai-tictack
     ```
 3. **(Optional) Create a Virtual Environment**  
     It’s best practice to isolate dependencies:
@@ -61,5 +61,6 @@ To get started and play the AI Tic Tac Toe game on your local machine, follow th
 5. **Run the Game**  
     Start the game with:
     ```
+    cd src
     python tictactoe.py
     ```
